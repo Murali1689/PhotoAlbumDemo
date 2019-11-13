@@ -1,0 +1,13 @@
+C:\Users\krishnm\source\repos\PhotoAlbum\PhotoAlbum.External\bin\Debug\netcoreapp3.0\PhotoAlbum.External.deps.json
+C:\Users\krishnm\source\repos\PhotoAlbum\PhotoAlbum.External\bin\Debug\netcoreapp3.0\PhotoAlbum.External.dll
+C:\Users\krishnm\source\repos\PhotoAlbum\PhotoAlbum.External\bin\Debug\netcoreapp3.0\PhotoAlbum.External.pdb
+C:\Users\krishnm\source\repos\PhotoAlbum\PhotoAlbum.External\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\krishnm\source\repos\PhotoAlbum\PhotoAlbum.External\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\krishnm\source\repos\PhotoAlbum\PhotoAlbum.External\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\krishnm\source\repos\PhotoAlbum\PhotoAlbum.External\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.xml
+C:\Users\krishnm\source\repos\PhotoAlbum\PhotoAlbum.External\obj\Debug\netcoreapp3.0\PhotoAlbum.External.csprojAssemblyReference.cache
+C:\Users\krishnm\source\repos\PhotoAlbum\PhotoAlbum.External\obj\Debug\netcoreapp3.0\PhotoAlbum.External.AssemblyInfoInputs.cache
+C:\Users\krishnm\source\repos\PhotoAlbum\PhotoAlbum.External\obj\Debug\netcoreapp3.0\PhotoAlbum.External.AssemblyInfo.cs
+C:\Users\krishnm\source\repos\PhotoAlbum\PhotoAlbum.External\obj\Debug\netcoreapp3.0\PhotoAlbum.External.csproj.CopyComplete
+C:\Users\krishnm\source\repos\PhotoAlbum\PhotoAlbum.External\obj\Debug\netcoreapp3.0\PhotoAlbum.External.dll
+C:\Users\krishnm\source\repos\PhotoAlbum\PhotoAlbum.External\obj\Debug\netcoreapp3.0\PhotoAlbum.External.pdb
